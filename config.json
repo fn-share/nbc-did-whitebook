@@ -1,27 +1,22 @@
 {
-  "title": "my book",
-  "author": "wayne chan",
+  "title": "NBC DID \u6280\u672f\u767d\u76ae\u4e66",
+  "author": "",
   "desc": "",
   "keywords": "",
   "ver": "0.1",
   "files": [
     "0. \u76ee\u5f55",
     "1. NBC DID \u7cfb\u7edf\u7b80\u4ecb",
-    "2. \u8bbe\u5907\u4e0e\u8d26\u53f7",
-    "3. \u8eab\u4efd\u6258\u7ba1",
+    "2. \u5b89\u5168\u7b49\u7ea7",
+    "3. \u8bbe\u5907\u8d26\u53f7\u4e0e\u8eab\u4efd\u8d26\u53f7",
     "4. \u62a4\u7167\u7b7e\u8bc1\u53ca\u7eff\u5361",
-    "5. DID\u8d26\u53f7\u7ba1\u7406\u5668",
-    "6. \u5b89\u5168\u4fdd\u969c\u4e0e\u9690\u79c1\u4fdd\u62a4",
-    "6.1 \u9690\u533f\u4e0e\u8eab\u4efd\u76f8\u5173\u8054\u7684\u4fe1\u606f",
-    "6.2 \u907f\u514d\u5728\u5e94\u7528\u7f51\u7ad9\u8f93\u5165\u654f\u611f\u4fe1\u606f",
-    "6.3 \u6765\u8def\u9694\u79bb\u4e0e\u7ad9\u70b9\u9694\u79bb",
-    "6.4 \u70b9\u5bf9\u70b9\u8c03\u7528TEE\u670d\u52a1",
-    "6.5 \u5b89\u5168\u94fe\u73af\u4e0e\u5f3a\u5316\u7801",
-    "6.6 \u6258\u7ba1\u670d\u52a1\u70b9\u7684\u903b\u8f91\u8ddd\u79bb",
-    "6.7 \u62a4\u7167\u683c\u5f0f",
-    "6.8 \u7b7e\u8bc1\u4e0e\u7eff\u5361\u683c\u5f0f",
-    "7. \u5b9e\u540d\u8ba4\u8bc1\u7684\u5ef6\u4f38\u670d\u52a1",
-    "8. \u914d\u7f6e\u652f\u4ed8\u6865"
+    "5. DID \u8d26\u53f7\u7ba1\u7406\u5668",
+    "6. \u6388\u6743",
+    "6.1 \u6388\u6743\u4e0e\u8f6c\u6388\u6743\u539f\u7406",
+    "6.2 \u62a4\u7167\u683c\u5f0f",
+    "6.3 \u7b7e\u8bc1\u683c\u5f0f",
+    "6.4 \u7eff\u5361\u683c\u5f0f",
+    "6.5 \u591a\u7ef4\u5ea6\u4e8c\u6b21\u9a8c\u8bc1"
   ],
-  "checksum": "fc4a5ef9fb1db73dd83fd6a3f9974f73807f4309f4db274123064c9af0937e87"
+  "checksum": "6098ae5c6df6280577fbb883bbd1e7646310b48a43f4121fedd33b641b0d0660"
 }
