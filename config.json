@@ -4,6 +4,7 @@
   "desc": "",
   "keywords": "",
   "ver": "0.1",
+  "quoto": "",
   "files": [
     "0. \u76ee\u5f55",
     "1. NBC DID \u7cfb\u7edf\u7b80\u4ecb",
@@ -23,5 +24,5 @@
     "7.3 \u6765\u8def\u9694\u79bb\u4e0e\u7ad9\u70b9\u9694\u79bb",
     "8. \u652f\u4ed8\u6865"
   ],
-  "checksum": "c2b4d88314a294766928679dd496aa686195708cad2eefe36d2e7eff8dca773c"
+  "checksum": "61f57d268843757983548aa48631b66f223fdc33fe6a5333e13a8f8446f3923f"
 }
