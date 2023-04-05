@@ -4,7 +4,7 @@
   "desc": "",
   "keywords": "",
   "ver": "0.1",
-  "quoto": "",
+  "quoto": "easy-book",
   "files": [
     "0. \u76ee\u5f55",
     "1. NBC DID \u7cfb\u7edf\u7b80\u4ecb",
@@ -24,5 +24,5 @@
     "7.3 \u6765\u8def\u9694\u79bb\u4e0e\u7ad9\u70b9\u9694\u79bb",
     "8. \u652f\u4ed8\u6865"
   ],
-  "checksum": "61f57d268843757983548aa48631b66f223fdc33fe6a5333e13a8f8446f3923f"
+  "checksum": "0b51f8201c232abbe00f4217e9b47a99c662d25d91f41a14694d405496407da9"
 }
