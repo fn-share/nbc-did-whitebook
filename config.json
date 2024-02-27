@@ -3,7 +3,7 @@
   "author": "",
   "desc": "",
   "keywords": "",
-  "ver": "0.1",
+  "ver": "0.2",
   "quoto": "easy-book",
   "files": [
     "0. \u76ee\u5f55",
@@ -24,5 +24,5 @@
     "7.3 \u6765\u8def\u9694\u79bb\u4e0e\u7ad9\u70b9\u9694\u79bb",
     "8. \u652f\u4ed8\u6865"
   ],
-  "checksum": "0b51f8201c232abbe00f4217e9b47a99c662d25d91f41a14694d405496407da9"
+  "checksum": "8cbbce63e0de7d5d600eee6bcddff95e9c778b32a6f688ab461ea4b7bfbd4cae"
 }
